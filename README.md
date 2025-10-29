@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Diego! 👋
 
-<!--
-**DiegoNap/DiegoNap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate **System and Helpdesk Engineer** with a strong interest in automation, scripting, and leveraging AI to solve complex problems. I enjoy building tools and workflows that improve efficiency and reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various automation scripts to streamline system administration tasks.
+- 🌱 I’m currently learning more about cloud infrastructure and DevOps practices.
+- 👯 I’m looking to collaborate on open-source projects related to system tools or automation.
+- 📫 How to reach me: Connect with me on LinkedIn!
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-napoli-732b8a71/)
+
+## My GitHub Stats
+
+![DiegoNap's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegonap&show_icons=true&theme=radical)
