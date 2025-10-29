@@ -11,7 +11,7 @@ I'm a passionate **System and Helpdesk Engineer** with a strong interest in auto
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-napoli-732b8a71/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffaele-diego-pomaro-9b8b7233/)
 
 ## My GitHub Stats
 
